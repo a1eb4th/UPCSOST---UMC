@@ -1,0 +1,192 @@
+;Answer ID;Gender;Faculty;How many days per week do you usually come to the university?;Please indicate the postal code from where you usually start your trip to the university:;Mode of transport going - Stage 1;Mode of transport going -  Stage 2;Mode of transport going - Stage 3;Do you take the same route for coming and going?;Mode of transport return - Stage 1;Mode of transport return -  Stage 2;Mode of transport return - Stage 3;Time;Price;Comfortability;No choice;Enviromental Impact;Healthyness;Car needed
+9;52;Man;FIB;5;8197;On foot;FGC;Bus;Yes;;;;Yes;Yes;No;No;No;No;No
+11;54;Man;FIB;2;8720;On foot;Bus;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+12;58;Woman;FIB;5;8031;Bus;On foot;On foot;No;Bus;Bus;On foot;Yes;No;Yes;No;No;No;No
+32;117;Woman;FIB;4;8022;On foot;Bus;On foot;Yes;;;;No;Yes;No;No;No;No;No
+34;119;Man;FIB;5;8205;On foot;FGC;On foot;No;Bus;FGC;On foot;Yes;Yes;No;No;No;No;No
+43;148;Man;FIB;5;8340;Renfe;Underground;On foot;Yes;;;;No;Yes;No;No;No;No;No
+60;186;Man;FIB;5;8391;Bus;Renfe;Underground;Yes;;;;No;No;No;Yes;No;No;No
+70;212;Woman;FIB;4;8036;Tram;;;Yes;;;;Yes;Yes;No;No;No;No;No
+77;225;Man;FIB;4;8014;Scooter (or other micro-mobility devices) with renewable charging;Scooter (or other micro-mobility devices) with renewable charging;Scooter (or other micro-mobility devices) with renewable charging;Yes;;;;Yes;Yes;No;No;No;No;No
+109;293;Man;FIB;4;8930;Tram;Underground;Bus;No;Tram;Bus;Tram;Yes;No;Yes;No;No;No;No
+111;295;Man;FIB;5;8206;On foot;FGC;Bus;Yes;;;;No;Yes;Yes;No;No;No;No
+113;311;Woman;FIB;4;;On foot;Bus;;Yes;;;;Yes;No;Yes;No;No;No;No
+129;338;Man;FIB;5;8830;Bus;Bus;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+138;351;Man;FIB;4;8028;On foot;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+141;362;Woman;FIB;5;8201;On foot;FGC;Bus;No;Underground;Renfe;On foot;No;No;No;No;No;No;No
+152;385;Man;FIB;5;8016;On foot;Underground;On foot;Yes;;;;No;Yes;No;Yes;No;No;No
+160;400;Woman;FIB;5;8560;Bus;Underground;On foot;Yes;;;;No;No;No;Yes;No;No;No
+169;422;Woman;FIB;5;8921;On foot;Underground;On foot;Yes;;;;No;No;No;Yes;No;No;No
+183;449;Woman;FIB;5;;On foot;Underground;;Yes;;;;Yes;No;No;No;No;No;No
+192;465;Man;FIB;4;8005;Bicycle;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+196;471;Non binary;FIB;5;8202;Combustion or electric motorcycle with non-renewable source charging;Underground;Renfe;Yes;;;;No;No;Yes;No;No;No;No
+205;495;Man;FIB;4;8197;FGC;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Yes;;;;No;No;No;No;No;No;Yes
+207;507;Man;FIB;3;;Bus;Bus;Bus;Yes;;;;Yes;No;Yes;No;No;No;No
+209;518;Man;FIB;4;8757;On foot;Bus;On foot;Yes;;;;No;Yes;Yes;No;No;No;No
+218;537;Man;FIB;4;;On foot;On foot;On foot;Yes;;;;No;Yes;No;No;Yes;No;No
+236;587;Man;FIB;4;8014;On foot;Bus;On foot;No;On foot;;;No;Yes;No;No;Yes;No;No
+242;603;Man;FIB;4;8781;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Bus;On foot;Yes;;;;No;No;No;Yes;No;No;No
+251;620;Woman;FIB;5;8031;On foot;Underground;Bus;Yes;;;;Yes;No;No;No;No;No;No
+252;621;Woman;FIB;5;8921;On foot;Underground;On foot;Yes;;;;Yes;No;No;No;No;No;Yes
+257;630;Man;FIB;4;8760;FGC;Underground;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+262;640;Man;FIB;5;8700;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Bus;On foot;No;On foot;Bus;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Yes;No;Yes;No;No;No;No
+265;643;Woman;FIB;5;8302;Bus;Underground;On foot;Yes;;;;No;No;Yes;No;No;No;No
+267;645;Man;FIB;4;8042;On foot;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+270;649;Man;FIB;3;17401;Combustion or electric motorcycle with non-renewable source charging;Renfe;Underground;Yes;;;;No;No;No;Yes;No;No;No
+271;650;Man;FIB;1;8041;Bus;On foot;;Yes;;;;Yes;No;Yes;No;No;No;No
+272;651;Man;FIB;3;8241;Bus;On foot;;Yes;;;;Yes;No;No;No;No;No;No
+275;656;Man;FIB;4;8017;On foot;Bus;;No;On foot;Bus;On foot;Yes;No;No;No;No;No;No
+276;657;Man;FIB;5;8028;On foot;On foot;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+277;658;Man;FIB;1;25560;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Bus;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+279;661;Woman;FIB;5;8902;;Underground;Bus;Yes;;;;Yes;Yes;No;No;No;No;No
+281;663;Woman;FIB;5;8028;Tram;On foot;;Yes;;;;Yes;No;Yes;No;No;No;No
+287;676;Woman;FIB;4;8241;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Bus;On foot;No;On foot;Bus;On foot;Yes;Yes;No;No;No;No;No
+295;691;Woman;FIB;5;8440;Renfe;Renfe;Renfe;Yes;;;;No;Yes;Yes;No;No;No;No
+320;739;Woman;FIB;3;8028;;;On foot;Yes;;;;No;Yes;No;No;No;No;No
+327;756;Man;FIB;2;8210;On foot;Bus;Underground;Yes;;;;Yes;No;Yes;No;No;No;No
+349;803;Man;FIB;5;8028;Bicycle;Bicycle;On foot;Yes;;;;No;Yes;No;No;No;Yes;No
+352;809;Man;FIB;1;8172;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;;;Yes;;;;Yes;No;Yes;No;No;No;No
+358;818;Man;FIB;3;8027;Underground;Underground;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+366;846;Man;FIB;2;8450;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;;;Yes;;;;Yes;No;Yes;No;No;No;No
+375;857;Man;FIB;5;8901;Bus;On foot;;Yes;;;;Yes;No;Yes;No;No;No;No
+386;876;Man;FIB;5;8912;On foot;Underground;On foot;Yes;;;;No;No;No;Yes;No;No;No
+404;923;Woman;FIB;2;0;Bus;On foot;;No;On foot;Bus;;Yes;No;No;Yes;No;No;No
+409;936;Man;FIB;1;8185;On foot;FGC;Bicycle;Yes;;;;Yes;Yes;No;No;No;No;No
+421;962;Man;FIB;2;8902;On foot;Bus;On foot;Yes;;;;No;Yes;Yes;No;No;No;No
+424;965;Woman;FIB;5;8918;Tram;Bus;Underground;Yes;;;;No;No;No;Yes;No;No;No
+429;972;Man;FIB;4;8001;Underground;On foot;;Yes;;;;Yes;No;Yes;No;No;No;No
+431;974;Man;FIB;4;8019;On foot;Bus;On foot;Yes;;;;No;No;Yes;No;No;No;No
+438;990;Man;FIB;4;8291;On foot;Renfe;Underground;Yes;;;;No;No;No;Yes;No;No;No
+450;1010;Man;FIB;5;8030;Renfe;Underground;On foot;Yes;;;;Yes;No;No;No;Yes;No;No
+476;1052;Man;FIB;5;8630;FGC;Underground;;No;Bus;On foot;;Yes;No;Yes;No;No;No;No
+480;1059;Woman;FIB;5;;On foot;Underground;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+481;1060;Man;FIB;5;8339;Bus;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+483;1062;Man;FIB;4;8720;On foot;Bus;On foot;Yes;;;;Yes;No;No;No;Yes;No;No
+484;1065;Man;FIB;3;8032;Scooter (or other micro-mobility devices) with non-renewable charging;Scooter (or other micro-mobility devices) with non-renewable charging;Scooter (or other micro-mobility devices) with non-renewable charging;Yes;;;;No;Yes;No;No;Yes;No;No
+486;1068;Man;FIB;4;8004;On foot;Underground;On foot;No;On foot;On foot;On foot;No;No;Yes;No;Yes;No;No
+488;1072;Man;FIB;4;8037;Bicycle;Bicycle;Bicycle;Yes;;;;No;Yes;No;No;No;Yes;No
+491;1076;Man;FIB;5;8029;On foot;On foot;On foot;Yes;;;;No;No;No;No;Yes;No;No
+495;1087;Man;FIB;3;8034;On foot;On foot;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+503;1104;Man;FIB;5;8850;On foot;Underground;Bus;Yes;;;;Yes;Yes;No;No;No;No;No
+511;1119;Man;FIB;1;8028;Combustion or electric motorcycle with non-renewable source charging;;;Yes;;;;No;No;No;Yes;No;No;No
+525;1153;Man;FIB;3;8015;Underground;On foot;;Yes;;;;Yes;No;Yes;No;No;No;No
+535;1167;Man;FIB;4;8024;Bus;On foot;;No;Bus;;;No;Yes;Yes;No;No;No;No
+538;1172;Man;FIB;4;8243;Bus;Bus;Bus;Yes;;;;Yes;No;Yes;No;No;No;No
+547;1191;Woman;FIB;5;8800;On foot;Underground;Bus;No;On foot;Underground;Bus;No;No;No;Yes;No;No;No
+560;1211;Woman;FIB;2;8202;On foot;FGC;Underground;Yes;;;;Yes;No;No;No;No;No;No
+562;1214;Man;FIB;4;8028;On foot;;;Yes;;;;No;Yes;No;No;No;Yes;No
+566;1225;Man;FIB;5;8940;On foot;Bus;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+570;1232;Woman;FIB;2;8640;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;FGC;Underground;Yes;;;;No;Yes;No;No;No;No;No
+594;1275;Man;FIB;3;8700;On foot;Bus;On foot;Yes;;;;No;Yes;No;Yes;No;No;No
+602;1285;Man;FIB;5;8028;Underground;On foot;;Yes;;;;Yes;No;No;No;No;No;No
+617;1312;Man;FIB;5;8912;Underground;On foot;;Yes;;;;Yes;No;No;No;No;No;No
+624;1321;Man;FIB;6;8018;Bus;;;Yes;;;;No;No;No;No;Yes;No;No
+638;1347;Man;FIB;5;8014;Bicycle;;;Yes;;;;Yes;Yes;No;No;No;No;No
+645;1357;Man;FIB;5;8960;Combustion or electric motorcycle with non-renewable source charging;;;Yes;;;;Yes;No;Yes;No;No;No;No
+649;1367;Man;FIB;5;8225;FGC;Bus;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+660;1388;Man;FIB;5;8206;On foot;Renfe;Underground;No;Bus;FGC;Bus;No;Yes;No;No;No;No;No
+672;1404;Man;FIB;4;8328;On foot;Renfe;Underground;Yes;;;;No;Yes;No;Yes;No;No;No
+673;1405;Non binary;FIB;4;8028;On foot;Bus;On foot;Yes;;;;No;Yes;No;No;No;Yes;No
+678;1415;Man;FIB;3;8350;On foot;Underground;Renfe;Yes;;;;Yes;No;No;No;No;No;No
+681;1421;Man;FIB;5;8290;Combustion or electric motorcycle with non-renewable source charging;FGC;Bus;Yes;;;;Yes;No;Yes;No;No;No;No
+686;1429;Man;FIB;5;8960;Bus;;;Yes;;;;Yes;No;No;No;No;No;No
+690;1434;Man;FIB;3;8025;Combustion or electric motorcycle with non-renewable source charging;;;Yes;;;;Yes;No;No;No;No;No;Yes
+695;1439;Man;FIB;5;8251;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Bus;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+719;1477;Woman;FIB;5;8800;;Underground;Bus;Yes;;;;Yes;No;Yes;No;No;No;No
+732;1509;Woman;FIB;4;8001;Underground;On foot;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+733;1512;Man;FIB;3;8110;Renfe;Underground;;Yes;;;;Yes;Yes;No;No;No;No;No
+741;1540;Woman;FIB;5;8025;Underground;;;Yes;;;;Yes;No;No;No;No;No;No
+748;1560;Man;FIB;3;8006;Bus;;;Yes;;;;Yes;No;No;No;No;No;No
+753;1571;Woman;FIB;4;8380;On foot;Renfe;Underground;Yes;;;;No;No;No;Yes;No;No;No
+754;1572;Man;FIB;5;8021;Bicycle;;;Yes;;;;Yes;Yes;No;No;No;No;No
+762;1589;Man;FIB;5;8850;Bus;Bus;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+763;1591;Man;FIB;4;8720;;;Bus;Yes;;;;Yes;No;No;No;No;No;No
+774;1618;Man;FIB;5;8904;Underground;On foot;;No;Tram;On foot;;No;Yes;Yes;No;No;No;No
+785;1648;Woman;FIB;1;17411;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;;;Yes;;;;Yes;No;No;No;No;No;No
+787;1651;Man;FIB;5;8980;On foot;Bus;On foot;Yes;;;;No;Yes;Yes;No;No;No;No
+789;1657;Woman;FIB;5;8038;Underground;On foot;;Yes;;;;Yes;Yes;No;No;No;No;No
+792;1661;Man;FIB;4;;On foot;Renfe;Underground;Yes;;;;Yes;No;Yes;No;No;No;No
+798;1675;Man;FIB;5;8450;On foot;Renfe;Underground;Yes;;;;No;Yes;No;No;No;No;Yes
+805;1687;Man;FIB;5;8038;Bus;Tram;On foot;No;Bus;Bus;;Yes;No;Yes;No;No;No;No
+812;1699;Man;FIB;5;8026;On foot;Underground;On foot;Yes;;;;Yes;No;No;No;No;No;No
+813;1704;Man;FIB;5;8295;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Bus;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+846;1767;Man;FIB;5;8005;On foot;Bus;On foot;Yes;;;;No;No;Yes;No;No;No;No
+855;1798;Man;FIB;4;8350;Renfe;Underground;On foot;Yes;;;;No;No;No;Yes;No;No;No
+863;1817;Woman;FIB;1;8720;Combustion or electric motorcycle with non-renewable source charging;;;Yes;;;;Yes;Yes;No;No;No;No;No
+867;1825;Woman;FIB;4;8902;Underground;Underground;Underground;Yes;;;;Yes;No;Yes;No;No;No;No
+869;1830;Man;FIB;4;8013;Underground;;;Yes;;;;No;No;Yes;No;No;No;No
+882;1850;Man;FIB;4;8840;On foot;Bus;On foot;Yes;;;;No;Yes;No;Yes;No;No;No
+884;1854;Man;FIB;2;8913;Combustion or electric motorcycle with non-renewable source charging;;;Yes;;;;Yes;No;Yes;No;No;No;No
+891;1865;Man;FIB;5;8800;Bus;Underground;On foot;Yes;;;;No;No;Yes;No;No;No;No
+893;1867;Woman;FIB;4;8004;On foot;Underground;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+899;1877;Woman;FIB;4;8290;On foot;Renfe;Bus;Yes;;;;Yes;No;Yes;No;No;No;No
+917;1903;Man;FIB;1;25200;Combustion or electric motorcycle with non-renewable source charging;On foot;;Yes;;;;Yes;No;No;Yes;No;No;No
+929;1926;Man;FIB;1;8024;Combustion or electric motorcycle with non-renewable source charging;;;Yes;;;;Yes;No;Yes;No;No;No;No
+931;1930;Man;FIB;4;8391;Renfe;Underground;On foot;No;Underground;Renfe;Bus;No;No;No;Yes;No;No;No
+946;1954;Woman;FIB;3;8005;Underground;;;Yes;;;;Yes;No;No;No;No;No;No
+951;1962;Man;FIB;2;8015;Bicycle;;;Yes;;;;No;Yes;No;No;No;Yes;No
+952;1965;Man;FIB;4;8980;Bus;On foot;;No;On foot;Bus;Bus;No;No;Yes;No;No;No;No
+957;1971;Man;FIB;1;8023;On foot;Bus;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+966;1989;Man;FIB;5;8027;Underground;Underground;;Yes;;;;Yes;Yes;No;No;No;No;No
+975;2003;Man;FIB;5;8014;Underground;On foot;;No;On foot;On foot;On foot;Yes;No;Yes;No;No;No;No
+977;2011;Man;FIB;5;8034;On foot;On foot;On foot;Yes;;;;No;Yes;No;No;No;No;No
+987;2025;Woman;FIB;1;8921;Underground;Bus;;Yes;;;;No;Yes;No;No;Yes;No;No
+988;2027;Man;FIB;5;8015;On foot;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+994;2043;Man;FIB;4;8295;Renfe;Underground;On foot;Yes;;;;No;No;No;Yes;No;No;No
+995;2044;Man;FIB;2;17520;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;;;Yes;;;;Yes;No;No;No;No;No;Yes
+1002;2057;Man;FIB;3;8755;Bus;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;;Yes;;;;Yes;No;No;Yes;No;No;No
+1012;2073;Man;FIB;4;8038;On foot;Underground;;Yes;;;;Yes;No;No;Yes;No;No;No
+1018;2081;Man;FIB;4;;Renfe;Renfe;Underground;Yes;;;;No;No;No;Yes;No;No;No
+1022;2086;Man;FIB;5;8630;Bus;On foot;;Yes;;;;Yes;No;No;Yes;No;No;No
+1036;2120;Man;FIB;2;8211;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Yes;;;;Yes;No;Yes;No;No;No;No
+1038;2126;Man;FIB;5;8840;Bus;Bus;Bus;Yes;;;;Yes;Yes;No;No;No;No;No
+1059;2161;Woman;FIB;3;8810;Bus;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+1076;2197;Man;FIB;2;8800;Scooter (or other micro-mobility devices) with renewable charging;Renfe;Scooter (or other micro-mobility devices) with renewable charging;Yes;;;;No;No;No;Yes;No;No;No
+1080;2203;Man;FIB;2;8907;On foot;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;;Yes;;;;Yes;No;Yes;No;No;No;No
+1087;2219;Man;FIB;1;8205;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;;;Yes;;;;No;No;No;No;No;No;Yes
+1088;2221;Man;FIB;4;8025;Underground;On foot;;Yes;;;;Yes;No;No;No;No;No;No
+1093;2233;Man;FIB;5;8042;On foot;Bus;On foot;Yes;;;;No;No;Yes;No;Yes;No;No
+1105;2261;Man;FIB;4;8907;On foot;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+1109;2266;Man;FIB;1;8940;Bus;Underground;;No;On foot;Bus;;Yes;No;Yes;No;No;No;No
+1131;2315;Man;FIB;4;8032;On foot;On foot;On foot;Yes;;;;Yes;No;No;No;No;No;No
+1136;2324;Woman;FIB;5;8028;;Underground;Tram;No;;Underground;Underground;No;No;No;No;No;Yes;No
+1139;2331;Man;FIB;1;8025;Scooter (or other micro-mobility devices) with non-renewable charging;Underground;Scooter (or other micro-mobility devices) with non-renewable charging;Yes;;;;Yes;No;Yes;No;No;No;No
+1140;2335;Woman;FIB;4;8001;On foot;Underground;;Yes;;;;Yes;No;Yes;No;No;No;No
+1141;2337;Woman;FIB;1;17800;;;;Yes;;;;No;No;No;Yes;No;No;No
+1144;2344;Man;FIB;4;8023;Underground;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;No;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;On foot;On foot;Yes;Yes;No;No;No;No;No
+1157;2377;Man;FIB;5;8906;On foot;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+1170;2414;Man;FIB;3;8028;On foot;;;Yes;;;;No;Yes;No;No;Yes;No;No
+1179;2436;Man;FIB;5;8304;Bus;Underground;On foot;Yes;;;;No;Yes;No;No;No;No;Yes
+1181;2452;Man;FIB;3;8820;Underground;;;Yes;;;;Yes;No;Yes;No;No;No;No
+1191;2471;Man;FIB;3;8302;Renfe;Underground;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+1196;2478;Woman;FIB;3;8036;Scooter (or other micro-mobility devices) with renewable charging;Scooter (or other micro-mobility devices) with renewable charging;Scooter (or other micro-mobility devices) with renewable charging;Yes;;;;Yes;Yes;No;No;No;No;No
+1208;2499;Woman;FIB;5;8027;On foot;Underground;On foot;Yes;;;;Yes;No;No;No;No;No;No
+1209;2500;Man;FIB;3;8173;On foot;FGC;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+1213;2509;Man;FIB;3;8402;Renfe;Underground;On foot;Yes;;;;No;Yes;No;No;Yes;No;No
+1218;2516;Man;FIB;5;8913;Underground;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;On foot;Yes;;;;No;No;No;Yes;No;No;No
+1230;2549;Man;FIB;3;8006;On foot;Bus;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+1260;2620;Man;FIB;5;8901;On foot;Underground;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+1268;2637;Man;FIB;4;8395;Renfe;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+1286;2672;Man;FIB;5;8021;Bicycle;Bicycle;Scooter (or other micro-mobility devices) with non-renewable charging;Yes;;;;No;No;No;No;Yes;Yes;No
+1294;2683;Woman;FIB;3;;Bus;Bus;Bus;No;On foot;Bus;On foot;No;Yes;Yes;No;No;No;No
+1302;2695;Man;FIB;4;8014;On foot;Underground;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+1310;2715;Man;FIB;5;8002;Underground;Underground;Underground;Yes;;;;No;Yes;No;Yes;No;No;No
+1314;2722;Man;FIB;5;8022;Bus;;;Yes;;;;Yes;No;Yes;No;No;No;No
+1323;2735;Man;FIB;5;8250;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;Bus;On foot;Yes;;;;Yes;No;No;No;No;No;No
+1335;2755;Man;FIB;5;8015;On foot;Underground;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+1337;2759;Woman;FIB;5;8921;On foot;Underground;On foot;Yes;;;;No;No;No;Yes;No;No;Yes
+1360;2807;Man;FIB;4;;On foot;On foot;On foot;Yes;;;;Yes;No;No;No;No;No;No
+1367;2824;Man;FIB;3;8291;Bus;Underground;On foot;Yes;;;;No;Yes;No;No;No;No;No
+1384;2862;Man;FIB;1;8750;Combustion vehicle (non-plug-in hybrid, electric or plug-in hybrid with non-renewable source charging),;;;Yes;;;;Yes;No;No;No;No;No;No
+1391;2876;Woman;FIB;5;8024;Bus;;;Yes;;;;Yes;No;No;No;No;No;No
+1406;2899;Man;FIB;3;8173;On foot;FGC;On foot;Yes;;;;No;Yes;No;No;No;Yes;No
+1410;2903;Man;FIB;3;8922;Underground;Underground;Underground;Yes;;;;Yes;Yes;No;No;No;No;No
+1416;2919;Woman;FIB;2;8034;On foot;On foot;On foot;Yes;;;;No;Yes;No;No;No;Yes;No
+1418;2921;Woman;FIB;2;8004;Underground;On foot;;Yes;;;;No;Yes;No;No;No;No;No
+1420;2923;Man;FIB;5;8035;Underground;;On foot;Yes;;;;Yes;Yes;No;No;No;No;No
+1426;2932;Man;FIB;4;43700;On foot;Underground;Renfe;Yes;;;;No;No;No;Yes;No;No;No
+1427;2933;Man;FIB;5;8940;On foot;Tram;On foot;No;On foot;Bus;On foot;Yes;No;Yes;No;No;No;No
+1428;2935;Man;FIB;3;8013;On foot;Bus;;Yes;;;;No;Yes;Yes;No;No;No;No
+1431;2938;Woman;FIB;5;8221;On foot;FGC;Bus;Yes;;;;Yes;No;No;No;No;No;Yes
+1438;2948;Man;FIB;5;8034;On foot;On foot;On foot;Yes;;;;Yes;No;Yes;No;No;No;No
+1443;2963;NR/DK;FIB;3;8041;Underground;Underground;;Yes;;;;Yes;Yes;No;No;No;No;No
